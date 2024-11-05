@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "hello_world": "npm start --prefix hello_world"
+    "hello_world": "npm start --prefix hello_world",
+    "hello_condition": "npm start --prefix hello_condition"
   }
 }
